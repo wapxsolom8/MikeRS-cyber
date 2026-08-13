@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Michael Solomon - Cybersecurity Operations, Cloud Security, and GRC" width="100%">
+  <img src="assets/profile-banner.svg" alt="Mikel RS - Cybersecurity Operations, Cloud Security, and GRC" width="100%">
 </p>
 
-# Hi, I'm Michael Solomon
+# Hi, I'm Mikel RS
 
 I am an IT and information security professional with 12+ years of experience across enterprise, hybrid-cloud, on-premises, and managed security environments.
 
