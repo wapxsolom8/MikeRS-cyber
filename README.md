@@ -34,20 +34,20 @@ Security strategy · Risk assessment · Policy management · Audit readiness · 
 
 - ISO/IEC 27001:2022 Lead Auditor
 - NIST Cybersecurity Framework 2.0 Lead Implementer
-- Certified in Cybersecurity (ISC2)
-- Certified Professional Ethical Hacker (Mile2)
-- MBA, Major in Cybersecurity (2024)
-- BS Information Technology (2010)
+- Certified in Cybersecurity
+- Certified Ethical Hacker
+- Master's degree in Cybersecurity
+- BS Information Technology
 
 ## Career snapshot
 
-| Period | Organization | Role |
-| --- | --- | --- |
-| 2021-2026 | NQX | IT Security Lead |
-| 2016-2020 | DXC Technology | IT Security Officer - ANZ and European clients |
-| 2016 | OpenText | Information Security Engineer |
-| 2014-2016 | SMITS Incorporated | IT Security Specialist |
-| 2011-2013 | IBM Global Process Services | IT Support Engineer |
+| Organization | Role |
+| --- | --- |
+| BPO | IT Security Lead |
+| IT Consulting | IT Security Officer - ANZ and European clients |
+| Software Company | Information Security Engineer |
+| Conglomerate Company | IT Security Specialist |
+| IBM | IT Support Engineer |
 
 ## What I am building here
 
